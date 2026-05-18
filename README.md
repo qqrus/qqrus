@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ruslan 👋
+# Hi, I'm Maksim 👋
 
 **Aspiring ML Engineer** · Passionate about data, algorithms, and making machines think
 
