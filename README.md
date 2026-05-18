@@ -13,13 +13,12 @@
 ## 🧠 About Me
 
 ```python
-ruslan = {
+Maks = {
     "role":      "Aspiring ML Engineer",
     "location":  "Saint Petersburg, Russia 🇷🇺",
-    "goal":      "ML Internship @ Yandex 2026",
+    "goal":      "ML Internship",
     "learning":  ["Algorithms & DS", "Classical ML", "Statistics"],
-    "interests": ["Competitive Gaming Analytics", "Sports Data", "MLOps"],
-    "fun_fact":  "I predict CS2 matches before they happen 🎮"
+    "interests": ["Competitive Gaming Analytics", "Sports Data", "MLOps"]
 }
 ```
 
@@ -99,7 +98,7 @@ Applying classification algorithms to esports analytics — because competitive 
 <!-- Добавь свои ссылки сюда -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qqrus32)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 
 </div>
